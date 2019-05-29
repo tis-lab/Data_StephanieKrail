@@ -21,8 +21,11 @@
 	- Nutritionists in the UK are concerned about the legitimacy of a study  by the Bristol-based Soil Association, which claimed that there were significant differences in the mineral and vitamin contents of organic and non-organic food.
 
 ## link to slides
-- https://docs.google.com/presentation/d/1W20AH6wCxofva_0YbXhE0KkAHIWkT8B3CVKrn3JFdcY/edit?usp=sharing
-
+- Presentation 1: Link to Google slides presentation
+	- https://docs.google.com/presentation/d/1W20AH6wCxofva_0YbXhE0KkAHIWkT8B3CVKrn3JFdcY/edit?usp=sharing
+- Presentation 2: Link to Google drive folder with Powerpoint presentation
+	- https://drive.google.com/drive/u/2/folders/1bLxt2nyVVf-osPCtPqEh4etNm9MAY-Vs
+	
 ## Three discussion topics
 - The cost of organic food and its accessibility for people of all financial backgrounds.
 - Pros and cons of consuming organic food. Are people healthier when they consume less organic foods?
