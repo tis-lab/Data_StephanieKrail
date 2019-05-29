@@ -1,6 +1,6 @@
 # Group 2 Topic Reading list 
 
-# Layman's abstract
+## Layman's abstract
 - Topic: Organic versus non-organic produce in terms of pesticide use 
 - Abstract: To go organic or not organic; That is the question. The human health effects resulting from consumption of non-organic foods are difficult to study due to the variability in human exposure and susceptibility. The lack of knowledge often results in the spread of misinformation, which can intensify the contention surrounding this issue. Our project begins to explore this issue by reviewing the 2017 report put together by the European Union regarding organic food and farming. Specifically, we paid close attention to personal chemical body load in each of the two scenarios and researched the environmental impact of the different farming practices. Ultimately, our project compares the health benefits and drawbacks of consuming organic and non-organic foods as well as analyzes the environmental implications associated with the different farming practices. 
 
@@ -20,7 +20,7 @@
 - Supporting article 2: Adam, 2001. Nutritionists question study of organic food
 	- Nutritionists in the UK are concerned about the legitimacy of a study  by the Bristol-based Soil Association, which claimed that there were significant differences in the mineral and vitamin contents of organic and non-organic food.
 
-## link to slides
+## Link to slides
 - Presentation 1: Link to Google slides presentation
 	- https://docs.google.com/presentation/d/1W20AH6wCxofva_0YbXhE0KkAHIWkT8B3CVKrn3JFdcY/edit?usp=sharing
 - Presentation 2: Link to Google drive folder with Powerpoint presentation
